@@ -1,0 +1,5 @@
+chmod u+x YourScriptFileName.sh -- To change sh file to executable file
+./YourScriptFileName.sh -- To execute sh file
+
+
+#!/bin/bash -- required on the top of sh file to make it executable type

@@ -1,0 +1,8 @@
+C:\Users\91994\source\repos\SwapNum\bin\Debug\netstandard2.0\SwapNum.deps.json
+C:\Users\91994\source\repos\SwapNum\bin\Debug\netstandard2.0\SwapNum.dll
+C:\Users\91994\source\repos\SwapNum\bin\Debug\netstandard2.0\SwapNum.pdb
+C:\Users\91994\source\repos\SwapNum\obj\Debug\netstandard2.0\SwapNum.csprojAssemblyReference.cache
+C:\Users\91994\source\repos\SwapNum\obj\Debug\netstandard2.0\SwapNum.AssemblyInfoInputs.cache
+C:\Users\91994\source\repos\SwapNum\obj\Debug\netstandard2.0\SwapNum.AssemblyInfo.cs
+C:\Users\91994\source\repos\SwapNum\obj\Debug\netstandard2.0\SwapNum.dll
+C:\Users\91994\source\repos\SwapNum\obj\Debug\netstandard2.0\SwapNum.pdb
